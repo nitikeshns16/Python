@@ -1,1 +1,1 @@
-# Python FAQ in intervew
+# Python
